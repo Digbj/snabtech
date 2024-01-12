@@ -111,3 +111,12 @@ html{
   text-transform: uppercase;
   margin-left: 5px;
 }
+.det input{
+background-color:#F5F1ED ;
+row-gap: 7px;
+padding: 10px;
+outline: none;
+color:orange;
+width: 200px;
+font-weight: bold;
+}

@@ -1,5 +1,6 @@
 import './App.css'
 import Footer from './components/footer'
+import Login from './components/login'
 import Mission from './components/mission'
 import NavBar from './components/navbar'
 import Nous from './components/Nous'
@@ -12,12 +13,13 @@ function App() {
 
   return (
     <>
-   <NavBar/>
+   {/* <NavBar/>
    <Nous/>
    <Mission/>
    <Offers/>
    <Termonology/>
-   <Footer/>
+   <Footer/> */}
+   <Login/>
     </>
   )
 }
